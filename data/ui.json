@@ -1,0 +1,220 @@
+{
+  "nav": {
+    "festival": {
+      "sk": "O festivale",
+      "en": "Festival"
+    },
+    "lineup": {
+      "sk": "Súbory",
+      "en": "Companies"
+    },
+    "venue": {
+      "sk": "Miesto",
+      "en": "Venue"
+    },
+    "videos": {
+      "sk": "Videá",
+      "en": "Videos"
+    },
+    "archive": {
+      "sk": "Archív",
+      "en": "Archive"
+    },
+    "partners": {
+      "sk": "Partneri",
+      "en": "Partners"
+    },
+    "contact": {
+      "sk": "Kontakt",
+      "en": "Contact"
+    }
+  },
+  "tickets": {
+    "sk": "Vstupenky",
+    "en": "Tickets"
+  },
+  "ticketsLong": {
+    "sk": "Kúpiť vstupenky",
+    "en": "Buy tickets"
+  },
+  "discover": {
+    "sk": "Objaviť festival",
+    "en": "Discover the festival"
+  },
+  "menu": {
+    "sk": "Menu",
+    "en": "Menu"
+  },
+  "close": {
+    "sk": "Zavrieť",
+    "en": "Close"
+  },
+  "skip": {
+    "sk": "Preskočiť na obsah",
+    "en": "Skip to content"
+  },
+  "scroll": {
+    "sk": "Posunúť",
+    "en": "Scroll"
+  },
+  "follow": {
+    "sk": "Sledujte nás",
+    "en": "Follow us"
+  },
+  "playVideo": {
+    "sk": "Prehrať video",
+    "en": "Play video"
+  },
+  "videoNote": {
+    "sk": "Video sa načíta z YouTube až po kliknutí.",
+    "en": "The video loads from YouTube only after you click."
+  },
+  "edition": {
+    "sk": "ročník",
+    "en": "edition"
+  },
+  "editionOrd": {
+    "sk": "{n}. ročník",
+    "en": "{n}{suffix} edition"
+  },
+  "companies": {
+    "sk": "súborov",
+    "en": "companies"
+  },
+  "companiesN": {
+    "sk": [
+      "súbor",
+      "súbory",
+      "súborov"
+    ],
+    "en": [
+      "company",
+      "companies",
+      "companies"
+    ]
+  },
+  "photosN": {
+    "sk": [
+      "fotografia",
+      "fotografie",
+      "fotografií"
+    ],
+    "en": [
+      "photo",
+      "photos",
+      "photos"
+    ]
+  },
+  "viewEdition": {
+    "sk": "Pozrieť ročník",
+    "en": "View edition"
+  },
+  "allEditions": {
+    "sk": "Všetky ročníky",
+    "en": "All editions"
+  },
+  "readMore": {
+    "sk": "Čítať viac",
+    "en": "Read more"
+  },
+  "readLess": {
+    "sk": "Zobraziť menej",
+    "en": "Show less"
+  },
+  "gallery": {
+    "sk": "Fotogaléria",
+    "en": "Photo gallery"
+  },
+  "prevYear": {
+    "sk": "Predchádzajúci ročník",
+    "en": "Previous edition"
+  },
+  "nextYear": {
+    "sk": "Nasledujúci ročník",
+    "en": "Next edition"
+  },
+  "backHome": {
+    "sk": "Späť na úvod",
+    "en": "Back to home"
+  },
+  "archiveTitle": {
+    "sk": "Archív ročníkov",
+    "en": "Past editions"
+  },
+  "onStage": {
+    "sk": "Na pódiu",
+    "en": "On stage"
+  },
+  "contactTitle": {
+    "sk": "Kontakt",
+    "en": "Contact"
+  },
+  "contactLead": {
+    "sk": "Máte otázku k festivalu, vstupenkám alebo spolupráci? Ozvite sa nám.",
+    "en": "Questions about the festival, tickets or partnership? Get in touch."
+  },
+  "organizer": {
+    "sk": "Kontakt organizátor",
+    "en": "Organiser contact"
+  },
+  "ticketsCardTitle": {
+    "sk": "Zabezpečte si miesto pod holým nebom",
+    "en": "Secure your seat under the open sky"
+  },
+  "ticketsCardText": {
+    "sk": "Vstupenky na CHOREA predávame v sieťach Ticketportal a Predpredaj.",
+    "en": "CHOREA tickets are sold via Ticketportal and Predpredaj."
+  },
+  "openMap": {
+    "sk": "Otvoriť v mapách",
+    "en": "Open in Maps"
+  },
+  "rights": {
+    "sk": "Všetky práva vyhradené.",
+    "en": "All rights reserved."
+  },
+  "credit": {
+    "sk": "Web vytvoril a spravuje",
+    "en": "Website created and managed by"
+  },
+  "notFoundTitle": {
+    "sk": "Stránka sa nenašla",
+    "en": "Page not found"
+  },
+  "notFoundText": {
+    "sk": "Táto stránka tu nie je — ale festival áno.",
+    "en": "This page isn’t here — but the festival is."
+  },
+  "close2": {
+    "sk": "Zavrieť galériu",
+    "en": "Close gallery"
+  },
+  "prev": {
+    "sk": "Predchádzajúca",
+    "en": "Previous"
+  },
+  "next": {
+    "sk": "Ďalšia",
+    "en": "Next"
+  },
+  "langName": {
+    "sk": "Slovensky",
+    "en": "English"
+  },
+  "archiveIntro": {
+    "sk": "Každý ročník CHOREA priniesol na nábrežie Dunaja iné súbory, iné príbehy a iné hviezdy. Prejdite si ich všetky.",
+    "en": "Every CHOREA edition brought different companies, stories and stars to the Danube riverbank. Explore them all."
+  },
+  "yearIntro": {
+    "sk": "{n} na jednom pódiu pod holým nebom.",
+    "en": "{n} on one open-air stage."
+  },
+  "tixTitle": {
+    "sk": "Kde chcete kúpiť vstupenky?",
+    "en": "Where would you like to buy tickets?"
+  },
+  "ourSites": {
+    "sk": "Naše ďalšie weby",
+    "en": "Our other websites"
+  }
+}

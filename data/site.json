@@ -1,0 +1,452 @@
+{
+  "url": "https://chorea.sk",
+  "languages": [
+    "sk",
+    "en"
+  ],
+  "edition": 8,
+  "year": 2027,
+  "tickets": "https://www.ticketportal.sk/event/CHOREA-GALA-2026",
+  "social": {
+    "facebook": "https://www.facebook.com/festivalchorea/",
+    "instagram": "https://www.instagram.com/divadlo_janart/"
+  },
+  "contact": {
+    "name": "Ján Ševčík",
+    "role": {
+      "sk": "Produkcia a organizácia",
+      "en": "Production & organisation"
+    },
+    "email": "produkcia@jan.sk",
+    "phone": "+421 908 047 780"
+  },
+  "meta": {
+    "title": {
+      "sk": "CHOREA 2027 — Medzinárodný festival tanca na nábreží Dunaja",
+      "en": "CHOREA 2027 — International Dance Festival on the Danube"
+    },
+    "description": {
+      "sk": "CHOREA GALA — unikátny veľkolepý galavečer svetového moderného baletu pod holým nebom na nábreží Dunaja pri Grand Hotel River Park v Bratislave. 8. ročník v roku 2027.",
+      "en": "CHOREA GALA — a unique open-air gala of world-class modern ballet on the Danube riverbank at Grand Hotel River Park, Bratislava. 8th edition in 2027."
+    }
+  },
+  "hero": {
+    "kicker": {
+      "sk": "8. ročník · Bratislava 2027",
+      "en": "8th edition · Bratislava 2027"
+    },
+    "tagline": {
+      "sk": "Svetová baletná elita pod holým nebom",
+      "en": "The world’s ballet elite under the open sky"
+    },
+    "place": {
+      "sk": "Nábrežie Dunaja · Grand Hotel River Park",
+      "en": "Danube riverbank · Grand Hotel River Park"
+    },
+    "date": {
+      "sk": "Termín a súbory oznámime čoskoro",
+      "en": "Date and companies to be announced soon"
+    }
+  },
+  "about": {
+    "eyebrow": {
+      "sk": "O festivale",
+      "en": "The festival"
+    },
+    "title": {
+      "sk": "Unikátny veľkolepý galavečer svetového moderného baletu",
+      "en": "A unique, grand gala of world-class modern ballet"
+    },
+    "lead": {
+      "sk": "CHOREA GALA prináša na Slovensko moderný balet v podaní najprestížnejších baletných telies sveta a ich sólistov. Každý rok začiatkom leta, v magickom prostredí modernej arény pod holým nebom na nábreží majestátneho Dunaja.",
+      "en": "CHOREA GALA brings modern ballet performed by the world’s most prestigious companies and their soloists to Slovakia. Every year at the start of summer, in the magical setting of a modern open-air arena on the banks of the majestic Danube."
+    },
+    "body": {
+      "sk": [
+        "Ako jedinečný festival svojho druhu predstavuje CHOREA špičkových svetových baletných umelcov v luxusnom prostredí hlavného mesta Slovenska a prináša slovenským aj medzinárodným divákom balet tej najvyššej umeleckej kvality.",
+        "Podujatie sa teší obrovskej pozornosti médií, uznaniu odborných kritikov a záujmu umeleckej obce aj širokej verejnosti."
+      ],
+      "en": [
+        "A one-of-a-kind festival, CHOREA showcases top performers from renowned ballet companies in the luxurious setting of the Slovak capital, bringing ballet of the highest artistic quality to Slovak and international audiences.",
+        "The event enjoys wide media attention, the acclaim of expert critics and great interest from the artistic community and the general public alike."
+      ]
+    },
+    "stats": [
+      {
+        "n": "7",
+        "label": {
+          "sk": "unikátnych ročníkov",
+          "en": "unique editions"
+        }
+      },
+      {
+        "n": "50+",
+        "label": {
+          "sk": "svetových súborov a sólistov",
+          "en": "world companies & soloists"
+        }
+      },
+      {
+        "n": "25+",
+        "label": {
+          "sk": "krajín z troch kontinentov",
+          "en": "countries on three continents"
+        }
+      },
+      {
+        "n": "1",
+        "label": {
+          "sk": "večer pod holým nebom",
+          "en": "night under the open sky"
+        }
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": {
+      "sk": "Prečo CHOREA",
+      "en": "Why CHOREA"
+    },
+    "title": {
+      "sk": "Jedinečný festival svojho druhu",
+      "en": "A festival like no other"
+    },
+    "items": [
+      {
+        "title": {
+          "sk": "Svetové hviezdy",
+          "en": "World-class stars"
+        },
+        "text": {
+          "sk": "Na jednom pódiu sa stretávajú sólisti a súbory z popredných svetových scén — od Kráľovského švédskeho baletu po Les Grands Ballets Canadiens.",
+          "en": "Soloists and companies from the world’s leading stages share one stage — from the Royal Swedish Ballet to Les Grands Ballets Canadiens."
+        },
+        "photo": "photos/feat-stars.webp"
+      },
+      {
+        "title": {
+          "sk": "Pod holým nebom",
+          "en": "Under the open sky"
+        },
+        "text": {
+          "sk": "Moderná aréna pod letnou oblohou, kde sa tanec prelína so západom slnka a nočným svetlom nad riekou.",
+          "en": "A modern arena beneath the summer sky, where dance meets the sunset and the night lights over the river."
+        },
+        "photo": "photos/feat-openair.webp"
+      },
+      {
+        "title": {
+          "sk": "Nábrežie Dunaja",
+          "en": "On the Danube"
+        },
+        "text": {
+          "sk": "Scéna priamo na nábreží majestátneho Dunaja pri Grand Hotel River Park — prirodzená kulisa, akú nemá žiadne divadlo.",
+          "en": "A stage right on the banks of the majestic Danube at Grand Hotel River Park — a natural backdrop no theatre can match."
+        },
+        "photo": "photos/feat-danube.webp"
+      },
+      {
+        "title": {
+          "sk": "Balet najvyššej kvality",
+          "en": "Ballet at its finest"
+        },
+        "text": {
+          "sk": "Moderný, neoklasický aj súčasný balet v jednom galavečere a publikum, ktoré tlieska v stoji. Každý rok iný program, vždy svetová úroveň.",
+          "en": "Modern, neoclassical and contemporary ballet in a single gala, and an audience that gives standing ovations. A new programme every year, always world-class."
+        },
+        "photo": "photos/feat-ovation.webp"
+      }
+    ]
+  },
+  "lineup": {
+    "eyebrow": {
+      "sk": "CHOREA 2027",
+      "en": "CHOREA 2027"
+    },
+    "title": {
+      "sk": "Tento rok bude opäť svetový!",
+      "en": "This year will be world-class again!"
+    },
+    "text": {
+      "sk": "Súbory 8. ročníka oznámime už čoskoro. Sledujte nás na sociálnych sieťach a buďte medzi prvými, kto sa dozvie, kto vystúpi na nábreží Dunaja v roku 2027.",
+      "en": "The companies of the 8th edition will be announced soon. Follow us on social media and be among the first to find out who will perform on the Danube riverbank in 2027."
+    },
+    "badge": {
+      "sk": "Súbory 2027 · čoskoro",
+      "en": "2027 line-up · coming soon"
+    },
+    "marqueeTitle": {
+      "sk": "Na pódiu CHOREA sa predstavili",
+      "en": "They have danced at CHOREA"
+    },
+    "lastTitle": {
+      "sk": "CHOREA 2026 — svetový ročník",
+      "en": "CHOREA 2026 — a world-class edition"
+    },
+    "lastText": {
+      "sk": "21. júna 2026 sa na nábreží Dunaja predstavilo osem súborov zo siedmich krajín.",
+      "en": "On 21 June 2026, eight companies from seven countries took the stage on the Danube riverbank."
+    }
+  },
+  "venue": {
+    "eyebrow": {
+      "sk": "Miesto konania",
+      "en": "The venue"
+    },
+    "title": {
+      "sk": "Jedinečný zážitok na nábreží majestátneho Dunaja",
+      "en": "A unique experience on the banks of the majestic Danube"
+    },
+    "text": {
+      "sk": "Festival sa každoročne koná v magickom prostredí modernej arény pod holým nebom pri Grand Hotel River Park v Bratislave. Rieka, večerné svetlo a panoráma mesta tvoria prirodzenú scénu tomuto výnimočnému podujatiu.",
+      "en": "Each year the festival takes place in the magical setting of a modern open-air arena at Grand Hotel River Park in Bratislava. The river, the evening light and the city skyline form a natural stage for this exceptional event."
+    },
+    "name": "Grand Hotel River Park, a Luxury Collection Hotel",
+    "address": "Dvořákovo nábrežie 6, 811 02 Bratislava",
+    "map": "https://www.google.com/maps/search/?api=1&query=Grand+Hotel+River+Park+Bratislava",
+    "photo": "photos/danube-riverpark.webp",
+    "photos": [
+      {
+        "src": "photos/venue-courtyard.webp",
+        "alt": {
+          "sk": "Nádvorie Grand Hotel River Park v noci",
+          "en": "Grand Hotel River Park courtyard at night"
+        }
+      },
+      {
+        "src": "photos/venue-arena.webp",
+        "alt": {
+          "sk": "Aréna CHOREA pod holým nebom pred predstavením",
+          "en": "The open-air CHOREA arena before the show"
+        }
+      },
+      {
+        "src": "photos/venue-audience.webp",
+        "alt": {
+          "sk": "Publikum CHOREA na nádvorí River Park",
+          "en": "The CHOREA audience at River Park"
+        }
+      }
+    ]
+  },
+  "videos": {
+    "eyebrow": {
+      "sk": "Videá",
+      "en": "Videos"
+    },
+    "title": {
+      "sk": "Zažite atmosféru CHOREA",
+      "en": "Feel the atmosphere of CHOREA"
+    },
+    "items": [
+      {
+        "id": "JAaUMRPfivw",
+        "year": 2024,
+        "title": {
+          "sk": "CHOREA 2024",
+          "en": "CHOREA 2024"
+        },
+        "poster": "archive/2024/the-greek-national-opera-06.webp"
+      },
+      {
+        "id": "FfljISz23GQ",
+        "year": 2018,
+        "title": {
+          "sk": "CHOREA 2018",
+          "en": "CHOREA 2018"
+        },
+        "poster": "archive/2018/balletto-di-milano-02.webp"
+      },
+      {
+        "id": "mrMI-CwZ1gE",
+        "year": 2017,
+        "title": {
+          "sk": "CHOREA 2017",
+          "en": "CHOREA 2017"
+        },
+        "poster": "archive/2017/chorea-gala-2017-open-air-gala-dedicated-to-the--03.webp"
+      }
+    ]
+  },
+  "archive": {
+    "eyebrow": {
+      "sk": "Archív",
+      "en": "Archive"
+    },
+    "title": {
+      "sk": "Objavte naše uplynulé ročníky",
+      "en": "Discover our past editions"
+    },
+    "text": {
+      "sk": "Od roku 2017 sa na CHOREA predstavili desiatky súborov a sólistov z celého sveta. Každý ročník má vlastnú stránku so súbormi, textami a fotogalériou.",
+      "en": "Since 2017, dozens of companies and soloists from all over the world have performed at CHOREA. Every edition has its own page with the companies, texts and photo gallery."
+    },
+    "years": {
+      "2026": {
+        "date": {
+          "sk": "21. 6. 2026",
+          "en": "21 June 2026"
+        },
+        "cover": "archive/2026/slovene-national-ballet-maribor-13.webp"
+      },
+      "2024": {
+        "cover": "archive/2024/les-grands-ballets-canadiens-01.webp"
+      },
+      "2023": {
+        "cover": null
+      },
+      "2022": {
+        "cover": "archive/2022/ballet-of-the-oper-graz-01.webp"
+      },
+      "2019": {
+        "cover": null
+      },
+      "2018": {
+        "date": {
+          "sk": "10. 6. 2018",
+          "en": "10 June 2018"
+        },
+        "cover": "archive/2018/balletto-di-milano-01.webp"
+      },
+      "2017": {
+        "cover": "archive/2017/chorea-gala-2017-open-air-gala-dedicated-to-the--01.webp"
+      }
+    }
+  },
+  "partners": {
+    "eyebrow": {
+      "sk": "Partneri",
+      "en": "Partners"
+    },
+    "title": {
+      "sk": "Ďakujeme partnerom podujatia",
+      "en": "Thank you to our partners"
+    },
+    "groups": [
+      {
+        "title": {
+          "sk": "Generálny reklamný partner",
+          "en": "General marketing partner"
+        },
+        "size": "xl",
+        "items": [
+          {
+            "name": "J&T BANKA",
+            "logo": "logos/jtbanka.webp",
+            "url": "https://www.jtbanka.sk/"
+          }
+        ]
+      },
+      {
+        "title": {
+          "sk": "Hlavní partneri",
+          "en": "Main partners"
+        },
+        "size": "l",
+        "items": [
+          {
+            "name": "RDS Art Group",
+            "logo": "logos/rds.webp",
+            "url": "https://www.rdsartgroup.sk/"
+          },
+          {
+            "name": "Budiš",
+            "logo": "logos/budis.webp",
+            "url": "https://www.budis.sk/"
+          },
+          {
+            "name": "Grand Hotel River Park",
+            "logo": "logos/riverpark.webp",
+            "url": "https://riverpark.sk/"
+          }
+        ]
+      },
+      {
+        "title": {
+          "sk": "Mediálni partneri",
+          "en": "Media partners"
+        },
+        "size": "m",
+        "items": [
+          {
+            "name": "Markíza",
+            "logo": "logos/markiza.webp",
+            "url": "https://www.markiza.sk/"
+          },
+          {
+            "name": "Rádio Expres",
+            "logo": "logos/expres.webp",
+            "url": "https://www.expres.sk/"
+          },
+          {
+            "name": "TA3",
+            "logo": "logos/ta3.webp",
+            "url": "https://www.ta3.com/"
+          }
+        ]
+      }
+    ]
+  },
+  "credit": {
+    "name": "The Prime",
+    "url": "https://theprime.pro",
+    "icon": "brand/theprime.webp"
+  },
+  "showcase": {
+    "eyebrow": {
+      "sk": "Na pódiu CHOREA",
+      "en": "On the CHOREA stage"
+    },
+    "band": {
+      "src": "photos/top-staatsballett.webp",
+      "caption": {
+        "sk": "Staatsballett Berlin · CHOREA 2023",
+        "en": "Staatsballett Berlin · CHOREA 2023"
+      },
+      "credit": "Foto: Yan Revazov",
+      "quote": {
+        "sk": "Balet tej najvyššej umeleckej kvality — pod letnou oblohou nad Dunajom.",
+        "en": "Ballet of the highest artistic quality — under the summer sky above the Danube."
+      }
+    },
+    "trio": [
+      {
+        "src": "photos/top-ensemble.webp"
+      },
+      {
+        "src": "photos/top-motion.webp"
+      },
+      {
+        "src": "photos/top-solo.webp"
+      }
+    ]
+  },
+  "ticketOptions": [
+    {
+      "name": "Ticketportal",
+      "url": "https://www.ticketportal.sk/event/CHOREA-GALA-2026",
+      "note": {
+        "sk": "Online a v predajnej sieti Ticketportal",
+        "en": "Online and at Ticketportal outlets"
+      }
+    },
+    {
+      "name": "Predpredaj",
+      "url": "https://predpredaj.zoznam.sk/sk/listky/chorea-gala-2026-2026-06-21/",
+      "note": {
+        "sk": "Online cez Predpredaj.sk",
+        "en": "Online via Predpredaj.sk"
+      }
+    }
+  ],
+  "footerLinks": [
+    {
+      "name": "Divadlo JANART",
+      "url": "https://janartdivadlo.sk/"
+    },
+    {
+      "name": "JAN Entertainment",
+      "url": "https://www.janentertainment.com/"
+    }
+  ]
+}
